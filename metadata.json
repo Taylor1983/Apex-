@@ -1,0 +1,6 @@
+{
+  "name": "ApexPortfolio - Multi-Asset Trading & Quantitative Rebalancer",
+  "description": "Multi-asset trading platform with risk profiling, real-time portfolio analytics, automated drift rebalancing, secure biometric WebAuthn verification, and multi-brokerage API trade routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
